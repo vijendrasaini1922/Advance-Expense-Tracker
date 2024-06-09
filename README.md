@@ -1,7 +1,7 @@
 # Advance Expense Tracker App
 
-![App Screenshot](https://github.com/vijendrasaini1922/Advance-Expense-Tracker/tree/main/project_screenshot/home1.png)
-![App Screenshot](https://github.com/vijendrasaini1922/Advance-Expense-Tracker/tree/main/project_screenshot/home2.png)
+- ![App Screenshot](https://github.com/vijendrasaini1922/Advance-Expense-Tracker/blob/main/project_screenshot/home1.png)
+- ![App Screenshot](https://github.com/vijendrasaini1922/Advance-Expense-Tracker/blob/main/project_screenshot/home2.png)
 
 ## Overview
 
